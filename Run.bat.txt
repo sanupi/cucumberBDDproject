@@ -1,0 +1,2 @@
+cd C:\Users\USER\eclipse-workspace\5Th march_selenium_program\bin\verificationstudy\CucumberFramewaork\pom.xml
+mvn test
